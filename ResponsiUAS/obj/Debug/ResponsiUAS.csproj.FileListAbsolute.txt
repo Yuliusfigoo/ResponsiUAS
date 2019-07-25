@@ -1,0 +1,7 @@
+D:\ResponsiUAS\ResponsiUAS\bin\Debug\ResponsiUAS.exe.config
+D:\ResponsiUAS\ResponsiUAS\bin\Debug\ResponsiUAS.exe
+D:\ResponsiUAS\ResponsiUAS\bin\Debug\ResponsiUAS.pdb
+D:\ResponsiUAS\ResponsiUAS\obj\Debug\ResponsiUAS.csprojAssemblyReference.cache
+D:\ResponsiUAS\ResponsiUAS\obj\Debug\ResponsiUAS.csproj.CoreCompileInputs.cache
+D:\ResponsiUAS\ResponsiUAS\obj\Debug\ResponsiUAS.exe
+D:\ResponsiUAS\ResponsiUAS\obj\Debug\ResponsiUAS.pdb
